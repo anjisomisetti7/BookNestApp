@@ -28,7 +28,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/booknest-digital-library-app.git
+git clone https://booknest-digital-library-app.lovable.app
 
 # Navigate to the project folder
 cd booknest-digital-library-app
