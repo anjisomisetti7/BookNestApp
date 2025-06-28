@@ -25,10 +25,7 @@ Styling: PostCSS
 
 📦 Installation
 bash
-Copy
-Edit
-# Clone the repository
-git clone https://booknest-digital-library-app.lovable.app
+
 
 # Navigate to the project folder
 cd booknest-digital-library-app
